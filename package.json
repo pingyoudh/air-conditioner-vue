@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "description": "云空调，便携小空调VUE3",
   "name": "air-conditinoner-vue",
   "version": "0.0.1",
